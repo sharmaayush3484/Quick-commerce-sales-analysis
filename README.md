@@ -28,11 +28,20 @@ This project analyzes grocery sales data to discover patterns in product categor
 ## Dashboard
 ![Power BI Dashboard](images/dashboard.png)
 
+### Data Cleaning- Pandas:
+(https://github.com/sharmaayush3484/blinkit-sales-analysis/blob/a0cf1a86d8668e221d5e2e3e5036360906a2f08c/images/itemtype-sales.PNG)
+(https://github.com/sharmaayush3484/blinkit-sales-analysis/blob/a0cf1a86d8668e221d5e2e3e5036360906a2f08c/images/Outletloc-sales.PNG)
+(https://github.com/sharmaayush3484/blinkit-sales-analysis/blob/a0cf1a86d8668e221d5e2e3e5036360906a2f08c/images/fat-sales-plot.png)
+
+
 ## Key Insights
 - Certain product categories generate significantly higher sales.
 - Outlet location type affects total revenue.
 - Low Fat and Regular products show different sales distribution.
 
+https://github.com/sharmaayush3484/blinkit-sales-analysis/blob/a0cf1a86d8668e221d5e2e3e5036360906a2f08c/images/sum-item-sales.PNG
+https://github.com/sharmaayush3484/blinkit-sales-analysis/blob/a0cf1a86d8668e221d5e2e3e5036360906a2f08c/images/sum-outlet-sales.PNG
+https://github.com/sharmaayush3484/blinkit-sales-analysis/blob/a0cf1a86d8668e221d5e2e3e5036360906a2f08c/images/value_count.PNG
 ## Repository Structure
 - **data/** → cleaned dataset  
 - **notebooks/** → Python analysis code  
