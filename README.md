@@ -17,13 +17,13 @@ This project analyzes grocery sales data to discover patterns in product categor
 ## Exploratory Data Analysis
 
 ### Sales by Item Type
-![Sales by Item Type](images/itemtype-sales.png)
+![Sales by Item Type](https://github.com/sharmaayush3484/blinkit-sales-analysis/blob/ce63bf75ca8f4399cc1f2d38db0eb3666eab2801/images/itemtype-sales-plot.png)
 
 ### Sales by Fat Content
-![Fat Content Sales](images/fat_content_sales.png)
+![Fat Content Sales](https://github.com/sharmaayush3484/blinkit-sales-analysis/blob/ce63bf75ca8f4399cc1f2d38db0eb3666eab2801/images/fat-sales-plot.png)
 
 ### Sales by Outlet Location
-![Outlet Location Sales](images/outlet_location_sales.png)
+![Outlet Location Sales](https://github.com/sharmaayush3484/blinkit-sales-analysis/blob/ce63bf75ca8f4399cc1f2d38db0eb3666eab2801/images/outletloc-salesplot.png)
 
 ## Dashboard
 ![Power BI Dashboard](images/dashboard.png)
