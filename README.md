@@ -1,5 +1,3 @@
-# Blinkit Sales Analysis
-
 ## Project Overview
 This project analyzes grocery sales data to discover patterns in product categories, outlet types, and fat content demand.
 
@@ -17,8 +15,7 @@ This project analyzes grocery sales data to discover patterns in product categor
 ## Exploratory Data Analysis (EDA)
 
 ### Sales by Item Type
-![Sales by Item Type](https://github.com/sharmaayush3484/blinkit-sales-analysis/blob/ce63bf75ca8f4399cc1f2d38db0eb3666eab2801/images/itemtype-sales-plot.png)
-
+![Sales by Item Type](images/itemtype-sales.PNG)
 ### Sales by Fat Content
 ![Fat Content Sales](https://github.com/sharmaayush3484/blinkit-sales-analysis/blob/ce63bf75ca8f4399cc1f2d38db0eb3666eab2801/images/fat-sales-plot.png)
 
