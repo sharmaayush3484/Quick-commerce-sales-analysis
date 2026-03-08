@@ -41,12 +41,15 @@ The categories generating the **highest overall revenue** are:
 - Fruits and Vegetables
 - Snack Foods
 - Household
+  
 ![Sum of Sales of Item type](images/sum-item-sales.PNG)
 
 ###Totals Outlet Location
+
 ![Sum of Sales of Item type](images/sum-outlet-sales.PNG)
 
 ###Total Values Count
+
 ![Total](images/value_count.PNG)
 
 ## Key Insights
