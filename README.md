@@ -65,4 +65,4 @@ The categories generating the **highest overall revenue** are:
 - **images/** → charts and dashboard screenshots
 
 ## Author
-Aayush Sharma
+Ayush Sharma
