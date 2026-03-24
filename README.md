@@ -1,4 +1,4 @@
-## Project Overview
+## Project Overview 
 This project analyzes grocery sales data to discover patterns in product categories, outlet types, and fat content demand.
 
 ## Tools Used
